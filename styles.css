@@ -1,7 +1,7 @@
 /* General Styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #0000;
     color: #333;
     margin: 0;
     padding: 0;
@@ -12,7 +12,7 @@ body {
 
 h1 {
     text-align: center;
-    color: #4CAF50;
+    color: #0000;
     margin-bottom: 20px;
 }
 
